@@ -5,12 +5,11 @@ stack_out_name     =      stack8.SAC
 normalization      =      true
 
 # Nth_root: Nth root slant stacking.
-Nth_root           =      8
+Nth_root           =      4
 
 # sac_name:                      name of SAC format files.
 # shift_time:      time length of shiftting when stacking.
 # weight_factor:    weight factor when stacking SAC files.
-# power:          number of power when stacking SAC files.
 
 sac_name   shfit_time   weight_factor
 AZ.BZN.BHZ.SAC 3.013 1
