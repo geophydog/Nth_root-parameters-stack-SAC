@@ -1,0 +1,82 @@
+# stack_out_name: name of SAC format file after stacking input SAC format files.
+stack_out_name     =      stack8.SAC
+
+# normalization: normalize the amplitude before stacking. true: normalization; false: not normalization.
+normalization      =      true
+
+# Nth_root: Nth root slant stacking.
+Nth_root           =      8
+
+# sac_name:                      name of SAC format files.
+# shift_time:      time length of shiftting when stacking.
+# weight_factor:    weight factor when stacking SAC files.
+# power:          number of power when stacking SAC files.
+
+sac_name   shfit_time   weight_factor
+AZ.BZN.BHZ.SAC 3.013 1
+AZ.CRY.BHZ.SAC 4.372 1
+AZ.FRD.BHZ.SAC 3.722 1
+AZ.HWB.BHZ.SAC 6.144 1
+AZ.KNW.BHZ.SAC 3.367 1
+AZ.LVA2.BHZ.SAC 4.135 1
+AZ.MONP2.BHZ.SAC 7.207 1
+AZ.PFO.BHZ.SAC 3.544 1
+AZ.RDM.BHZ.SAC 1.831 1
+AZ.SCI2.BHZ.SAC 2.776 1
+AZ.SMER.BHZ.SAC 3.367 1
+AZ.SND.BHZ.SAC 4.372 1
+AZ.SOL.BHZ.SAC 5.494 1
+AZ.TRO.BHZ.SAC 4.49 1
+AZ.WMC.BHZ.SAC 4.844 1
+CI.ARV.BHZ.SAC -6.794 1
+CI.BBR.BHZ.SAC 0.65 1
+CI.BC3.BHZ.SAC 6.203 1
+CI.BEL.BHZ.SAC 3.899 1
+CI.CHF.BHZ.SAC -2.068 1
+CI.CIA.BHZ.SAC 0.295 1
+CI.DAN.BHZ.SAC 2.836 1
+CI.DEC.BHZ.SAC -2.245 1
+CI.DGR.BHZ.SAC 2.954 1
+CI.DJJ.BHZ.SAC -2.009 1
+CI.EDW2.BHZ.SAC -3.486 1
+CI.FMP.BHZ.SAC -0.296 1
+CI.FUR.BHZ.SAC -6.735 1
+CI.GLA.BHZ.SAC 10.279 1
+CI.GMR.BHZ.SAC 2.127 1
+CI.GRA.BHZ.SAC -10.93 1
+CI.GSC.BHZ.SAC -1.536 1
+CI.HEC.BHZ.SAC -0.591 1
+CI.IRM.BHZ.SAC 5.908 1
+CI.ISA.BHZ.SAC -9.335 1
+CI.LGU.BHZ.SAC -3.781 1
+CI.LRL.BHZ.SAC -4.786 1
+CI.MLAC.BHZ.SAC -15.656 1
+CI.MPM.BHZ.SAC -6.617 1
+CI.MPP.BHZ.SAC -7.74 1
+CI.MUR.BHZ.SAC 1.713 1
+CI.MWC.BHZ.SAC -2.363 1
+CI.NEE2.BHZ.SAC 3.367 1
+CI.OSI.BHZ.SAC -4.136 1
+CI.PDM.BHZ.SAC 7.148 1
+CI.PHL.BHZ.SAC -11.107 1
+CI.PLM.BHZ.SAC 3.308 1
+CI.RPV.BHZ.SAC -0.886 1
+CI.RRX.BHZ.SAC -0.591 1
+CI.SBC.BHZ.SAC -5.967 1
+CI.SCI2.BHZ.SAC 1.359 1
+CI.SCZ2.BHZ.SAC -4.077 1
+CI.SDD.BHZ.SAC 1.004 1
+CI.SHO.BHZ.SAC -3.013 1
+CI.SLA.BHZ.SAC -4.727 1
+CI.SMM.BHZ.SAC -9.098 1
+CI.SNCC.BHZ.SAC -2.482 1
+CI.SVD.BHZ.SAC 1.831 1
+CI.SWS.BHZ.SAC 8.507 1
+CI.TIN.BHZ.SAC -11.757 1
+CI.TUQ.BHZ.SAC -1.241 1
+CI.VCS.BHZ.SAC -4.018 1
+CI.VES.BHZ.SAC -10.28 1
+G.SCZ.BHZ.SAC -17.606 1
+NR.NE72.BHZ.SAC 14.829 1
+NR.NE73.BHZ.SAC 19.378 1
+TA.214A.BHZ.SAC 17.664 1
