@@ -20,7 +20,7 @@ para_stack para.file
 
 ***
 
-### example: in directory "example"
+### example: in directory "example". Read file "para.file" carefully to figure out what parameters mean.
 ### :one: raw seismic traces.
 ![raw seismic traces](https://github.com/geophydog/Nth_root-parameters-stack-SAC/blob/master/images/SAC.png)
 
