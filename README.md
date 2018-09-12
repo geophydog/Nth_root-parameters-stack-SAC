@@ -31,6 +31,11 @@ para_stack para.file
 
 ***
 
+### :three: SNR comparison of stacking SAC files.
+![SNR comparison](https://github.com/geophydog/Nth_root-parameters-stack-SAC/blob/master/images/SNR.png)
+
+***
+
 ### Contribution
 - Author: Xuping Feng
 - Eamil: geophydogvon@gmail.com
