@@ -26,7 +26,7 @@ para_stack para.file
 
 ***
 
-### :two: compare Nth_root and slant stacking with linear stacking (function similar to "addf" command in Seismic Code Analysis).
+### :two: compare Nth_root and slant stacking with linear stacking (function similar to "addf" command in Seismic Analysis C).
 ![comparison](https://github.com/geophydog/Nth_root-parameters-stack-SAC/blob/master/images/com.png)
 
 ***
